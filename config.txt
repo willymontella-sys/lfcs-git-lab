@@ -1,2 +1,2 @@
-configurazione iniziale
+configurazione branch conflitto
 modalita sperimentale
