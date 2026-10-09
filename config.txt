@@ -1,2 +1,2 @@
-configurazione iniziale
+configurazione modificata su master
 modalita sperimentale
