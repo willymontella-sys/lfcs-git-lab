@@ -1,3 +1,4 @@
 Prima versione del progetto
 Seconda modifica del progetto
 Funzione sperimentale
+Modifica pronta per GitHub
